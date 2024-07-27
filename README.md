@@ -12,7 +12,6 @@ Hi, I'm Osvaldo A!
 		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
 	</a>
 </p>
-<br/>
 
 <hr>
 
