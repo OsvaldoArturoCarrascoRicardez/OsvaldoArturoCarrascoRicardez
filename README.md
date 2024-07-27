@@ -103,12 +103,9 @@ Hi, I'm Osvaldo A!
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OsvaldoArturoCarrascoRicardez&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OsvaldoArturoCarrascoRicardez&theme=react&hide_border=false)<br/>
-<div style="text-align: center;">
-
-</div>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoArturoCarrascoRicardez&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoArturoCarrascoRicardez&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OsvaldoArturoCarrascoRicardez&limit=5&theme=dark&combine_all_yearly_contributions=true)
