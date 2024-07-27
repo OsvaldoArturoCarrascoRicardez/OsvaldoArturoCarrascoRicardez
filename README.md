@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on various web development projects using modern frameworks and tools.<br>
+🤝 I’m looking for help with expanding my knowledge in DevOps and cloud computing.<br>
+💬 Ask me about web development, especially Angular, Laravel, and RESTful APIs.<br>
 
 
 # 💻 Tech Stack:
