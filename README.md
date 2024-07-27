@@ -101,7 +101,7 @@ Hi, I'm Osvaldo A!
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OsvaldoArturoCarrascoRicardez&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=OsvaldoArturoCarrascoRicardez&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OsvaldoArturoCarrascoRicardez&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoArturoCarrascoRicardez&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
