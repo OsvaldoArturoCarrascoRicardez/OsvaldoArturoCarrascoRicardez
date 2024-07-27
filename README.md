@@ -1,12 +1,41 @@
+<h1 align="center">
+Hi, I'm Bouaskaoun Mohammed!
+	<a href="https://github.com/OsvaldoArturoCarrascoRicardez" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<p align="center">
+	<a href="https://github.com/OsvaldoArturoCarrascoRicardez">
+		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+	<a href="https://github.com/OsvaldoArturoCarrascoRicardez">
+		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/OsvaldoArturoCarrascoRicardez">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
+<hr>
 
-
-
+<pre>
 🔭 I’m currently working on various web development projects using modern frameworks and tools.<br>
-  
 🤝 I’m looking for help with expanding my knowledge in DevOps and cloud computing.<br>
-  
 💬 Ask me about web development, especially Angular, Laravel, and RESTful APIs.<br>
+</pre>
+<hr>
+
+## 🤝 Connect with me
+<p align="center">
+	<a><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+</p>
+
 
 # 💻 Tech Stack:
 
